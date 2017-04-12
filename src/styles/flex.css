@@ -1,0 +1,25 @@
+.fl-row{
+  flex-direction: row;
+}
+.fl-col{
+  flex-direction: column;
+}
+.fl-row.fl-reverse{
+  flex-direction: row-reverse;
+}
+.fl-col.fl-reverse{
+  flex-direction: column-reverse;
+}
+.fl-center{
+  align-items: center;
+  justify-content: center;
+}
+.fl-1{
+  flex: 1;
+}
+.fl-2{
+  flex: 2;
+}
+.fl-3{
+  flex: 3;
+}

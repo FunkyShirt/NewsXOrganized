@@ -1,0 +1,92 @@
+.w-40{
+  width: 40%;
+}
+.w-30{
+  width: 30%;
+}
+.w-20%{
+  width: 20%;
+}
+
+.w-80{
+  width: 80%;
+}
+.w-80.w-center{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.w-60{
+  width: 60%;
+}
+.w-60.w-center{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.w-90{
+  width: 90%;
+}
+.w-90.w-center{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.w-100{
+  width: 100%;
+}
+.w-100.w-center{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.w-full{
+  width: 100vw;
+}
+.w-scroll{
+  overflow-x: scroll;
+}
+.h-100{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  height: 100px;
+}
+.h-scroll{
+  overflow-y: scroll;
+}
+
+.h-full{
+  height: 100vh;
+}
+
+.d-bl{
+  display: block;
+}
+.d-fl{
+  display: flex;
+}
+.d-i{
+  display: inline;
+}
+.d-ib{
+  display: inline-block;
+}
+.p-ab{
+  position: absolute;
+}
+.p-ab.w-full.h-full{
+  top: 0;
+  left: 0;
+}
+.p-re{
+  position: relative;
+}
+.p-fl{
+  float: left;
+}
+.p-fr{
+  float: right;
+}
+.p-fc{
+  float: center;
+}
